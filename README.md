@@ -1,5 +1,5 @@
 # Python-Projects
 
-Collection of Python Projects done by me
+Collection of my Python Projects
 
 owo
