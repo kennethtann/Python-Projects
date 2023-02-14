@@ -2,8 +2,8 @@ import smtplib
 import datetime as dt
 import random
 
-my_email = "automatedmotionalert@gmail.com"
-password = "mxgjqzsmjcqfzjnx"
+my_email = "INSERT SENDER EMAIL HERE"
+password = "INSERT SENDER EMAIL PASS HERE (APP PASS)"
 
 now = dt.datetime.now()
 weekday = now.weekday()
